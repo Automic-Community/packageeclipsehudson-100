@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-15" standalone="no"?><uc-export clientvers="11.0.0">
+<STORE name="PCK.AUTOMIC_ECLIPSE_HUDSON.PRV.STORE">
+<HEADER state="1">
+<Title/>
+<ArchiveKey1/>
+<ArchiveKey2/>
+<OH_SubType/>
+</HEADER>
+<STORE>
+<resourceList>
+<row checksum="571130BFC0394101CDBE136139990352E43EE8841E48D94E314CADFC2AE9B0D6" fileType="BINARY" filename="hudson-cli.jar" hw="*" id="HUDSONCLI-ALL-ALL-ALL" name="HUDSONCLI" platform="*" resname="PCK.AUTOMIC_ECLIPSE_HUDSON.PRV.STORE-HUDSONCLI-ALL-ALL-ALL" size="333213" sw="*" type="3" version=""/>
+</resourceList>
+</STORE>
+<DOCU_Docu state="1" type="text">
+<DOC/>
+</DOCU_Docu>
+</STORE>
+</uc-export>
